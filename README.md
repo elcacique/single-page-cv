@@ -1,5 +1,6 @@
-# [Single Page CV](https://roadmap.sh/projects/single-page-cv)
-Educational project from [roadmap.sh](https://roadmap.sh)
+# Single Page CV
+[Single Page CV](https://roadmap.sh/projects/single-page-cv) - educational project from [roadmap.sh]
+(https://roadmap.sh)
 
 ## Installation
 ```
